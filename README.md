@@ -22,5 +22,5 @@
 
 ### Información
 - Este repositorio se elabora con la intención de practicar el uso de git y github.
-- Para la elaboración de la tarea número 2, que consistió en leer alguno o los articulos propuestos por el maestro sobre el MLOps y coon la lectura realizar un pequeño resumen en un archivo ipynb 
+- Para la elaboración de la tarea número 2, que consistió en leer alguno o los artículos propuestos por el maestro sobre el MLOps y con la lectura realizar un pequeño resumen en un archivo ipynb.
 
